@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifycender",
+        "uuid": 6678011,
+        "checksum": "lpnmr9"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
